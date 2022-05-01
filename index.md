@@ -2,7 +2,6 @@
 title: Cross-Speaker Emotion Transfer for Low-Resource Text-to-Speech Using Non-Parallel Voice Conversion with Pitch-Shift Data Augmentation
 layout: default
 ---
-Submitted to Interspeech 2022
 
 # Authors
 - Ryo Terashima
@@ -12,6 +11,10 @@ Submitted to Interspeech 2022
 - Hyun-Wook Yoon
 - Jae-Min Kim
 - Kentaro Tachibana
+
+# Paper
+- Submitted to Interspeech 2022
+- arXiv: [https://arxiv.org/abs/2204.10020](https://arxiv.org/abs/2204.10020)
 
 # Abstruct
 
