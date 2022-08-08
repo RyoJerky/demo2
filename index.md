@@ -13,7 +13,7 @@ layout: default
 - Kentaro Tachibana
 
 # Paper
-- Submitted to Interspeech 2022
+- Accepted to Interspeech 2022
 - arXiv: [https://arxiv.org/abs/2204.10020](https://arxiv.org/abs/2204.10020)
 
 # Abstruct
